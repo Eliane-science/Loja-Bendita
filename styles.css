@@ -1,0 +1,19 @@
+body{
+    background-color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+    background-size: auto;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+}
+button{
+    background-color: black;
+    color: brown;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+}
