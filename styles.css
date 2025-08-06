@@ -1,19 +1,37 @@
-body{
-    background-color: rosybrown;
-    font-family: Arial, Helvetica, sans-serif;
-    background-position: center;
-    background-size: auto;
-}
-h3{
-    color: black;
+body {
+    background-color:#FFBDDB;
     text-align: center;
-    font-size: large;
-    font-style: normal;
 }
-button{
-    background-color: black;
-    color: brown;
-    border-radius: 10px;
-    border: none;
-    padding: 10px 20px;
+
+nav {
+    text-align: justify;
+}
+.cabecalho {
+    align-items: center;
+}
+.cabecalho_menu {
+    display: flex;
+    color: #CF3188;
+    font-size: 20px;
+    align-items: center;
+}
+
+.cabecalho_menu_navegacao {
+    display: flex;
+    align-items: flex-start;
+}
+
+.cabecalho_menu_navegacao_lista {
+    display: flex;
+    color: #831d55;
+    gap: 45px;
+}
+.conteudo-pricipal-imagem {
+    width: 100px;
+    height: 100px;
+}
+.rodape_imagem {
+    text-align: center;
+    width: 350px;
+    height: 100%;
 }
