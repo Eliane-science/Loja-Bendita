@@ -5,3 +5,48 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.container-fluid{
+    background-color: #fffdcc;
+}
+
+.navbar-brand {
+    /*font-family: ;*/
+  font-weight: 700;
+  color: #cf3188;
+  font-size: 24px;
+}
+
+.navbar-nav .nav-link {
+  color: #cf3188; 
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #cf3188;
+}
+
+.btn-outline {
+  color: #cf3188;
+  border-color: #cf3188;
+  transition: all 0.3s ease;
+}
+
+.btn-outline:hover {
+  background-color: #cf3188;
+  color: white;
+  border-color: #cf3188;
+}
+
+.form-control {
+  padding: 0.5rem 1rem;
+  border-color: #cf3188;
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(207, 49, 136, 0.25);
+  border-color: #cf3188;
+}
+
