@@ -50,3 +50,35 @@
   border-color: #cf3188;
 }
 
+.card-header {
+  background-color: #ffbddb;
+  color: #cf3188;
+  font-weight: 500;
+}
+
+.botao_rosa_bebe {
+  background-color: #ffbddb;
+  color: #cf3188;
+  font-weight: 500;
+}
+
+.rodape {
+  background-color: #fffdcc;
+  color: black;
+}
+
+.rosa-bebe {
+  background-color: #ffbddb;
+  color:black;
+  font-weight: 600;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
