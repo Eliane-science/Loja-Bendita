@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Funkids';
+    src: url('./fonte/funkids\ \(1\)/Funkids.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Funkids', sans-serif;
+}
+
 .texto-menor {
     font-size: 13px;
 }
@@ -82,3 +93,4 @@
         top:60%;
     }
 }
+
