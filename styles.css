@@ -5,8 +5,32 @@
     font-style: normal;
 }
 
-body {
-    font-family: 'Funkids', sans-serif;
+
+
+.nav-link {
+  font-family: 'Funkids', sans-serif;
+}
+
+
+.fs-1 {
+   font-family: 'Funkids', sans-serif;
+   color: #852057;
+   font-size: 100px;
+}
+
+
+.busque_por_categoria {
+  font-family: 'Funkids', sans-serif;
+  text-align: center;
+  color: #cf3188;
+  font-size: 45px;
+}
+
+.produtos_mais_vendidos {
+  font-family: 'Funkids', sans-serif;
+  text-align: center;
+  color: #cf3188;
+  font-size: 45px;
 }
 
 .texto-menor {
@@ -18,7 +42,7 @@ body {
 }
 
 .container-fluid{
-    background-color: #fffdcc;
+    background-color: #ffbddb;
 }
 
 .navbar-brand {
@@ -73,15 +97,25 @@ body {
   font-weight: 500;
 }
 
-.rodape {
+
+.receber_novidades {
   background-color: #fffdcc;
+}
+
+.rodape {
+  background-color: #ffbddb;
   color: black;
 }
 
-.rosa-bebe {
-  background-color: #ffbddb;
+.conheca_nossas_facilidades {
+  background-color: #fffdcc;
   color:black;
   font-weight: 600;
+}
+
+.conheca_nossas_facilidades_titulo {
+  font-family: 'Funkids', sans-serif;
+  font-size: 45px;
 }
 
 .posicao{
@@ -92,5 +126,9 @@ body {
     .posicao{
         top:60%;
     }
+}
+
+.desenvolvido_por {
+  font-family: 'Funkids', sans-serif;
 }
 
