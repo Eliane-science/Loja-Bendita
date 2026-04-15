@@ -6,28 +6,43 @@
 }
 
 
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Miranda+Sans:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,600;1,600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+.corpo_da_pagina {
+  background: #fffdcc;
+}
+
 
 .nav-link {
   font-family: 'Funkids', sans-serif;
 }
 
+.titulo_bendita {
+  font-family: 'Funkids', sans-serif;
+  color: #cf3188;
+  font-size: 35px;
+  text-align: center;
+  padding:  0.5rem 1rem;
+}
+
 
 .fs-1 {
    font-family: 'Funkids', sans-serif;
-   color: #852057;
+   color: #cf3188;
    font-size: 100px;
 }
 
 
 .busque_por_categoria {
-  font-family: 'Funkids', sans-serif;
+  font-family: 'Miranda Sans', sans-serif;
   text-align: center;
   color: #cf3188;
   font-size: 45px;
 }
 
 .produtos_mais_vendidos {
-  font-family: 'Funkids', sans-serif;
+  font-family: 'Miranda Sans', sans-serif;
   text-align: center;
   color: #cf3188;
   font-size: 45px;
@@ -99,23 +114,29 @@
 
 
 .receber_novidades {
-  background-color: #fffdcc;
+  background-color: #ffbddb;
 }
 
+.quer_receber_nossas_novidades {
+  font-family: 'Miranda Sans', sans-serif;
+  color: #cf3188;
+  font-size: 20px;
+}
 .rodape {
   background-color: #ffbddb;
   color: black;
 }
 
 .conheca_nossas_facilidades {
-  background-color: #fffdcc;
+  background-color: #ffbddb;
   color:black;
   font-weight: 600;
 }
 
 .conheca_nossas_facilidades_titulo {
-  font-family: 'Funkids', sans-serif;
-  font-size: 45px;
+  font-family: 'Miranda Sans', sans-serif;
+  font-size: 28px;
+  color: #cf3188;
 }
 
 .posicao{
@@ -126,6 +147,12 @@
     .posicao{
         top:60%;
     }
+}
+
+.titulo_rodape {
+  font-family: 'Miranda Sans', sans-serif;
+  color: #cf3188;
+  font-size: 28px;
 }
 
 .desenvolvido_por {
